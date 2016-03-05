@@ -1,4 +1,8 @@
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 3.1)
+
+# set the default c++ standard required
+# to build the project.
+set(CMAKE_CXX_STANDARD 11)
 
 project(LowPolySDL)
 
