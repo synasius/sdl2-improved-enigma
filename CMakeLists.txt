@@ -20,3 +20,4 @@ include_directories(${SDL2_INCLUDE_DIRS})
 include_directories(${LowPolySDL_SOURCE_DIR}/include)
 
 add_subdirectory(Lesson0)
+add_subdirectory(Lesson1)
